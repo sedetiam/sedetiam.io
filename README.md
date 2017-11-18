@@ -1,2 +1,2 @@
-# sedetiam.io
-code of sedetiam.io
+# sedetiam
+This project contains the source code of sedetiam website
