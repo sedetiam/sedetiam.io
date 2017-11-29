@@ -1,0 +1,12 @@
+.container {
+  background-color: green;
+  border: 1px solid blue;
+}
+
+.hello {
+  background-color: aqua;
+  font-family: "Montserrat", sans-serif;
+  font-size: 5rem;
+  padding: 0%;
+  text-align: center;
+}
