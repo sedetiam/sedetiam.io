@@ -6,12 +6,12 @@
   "private": true,
   "dependencies": {
     "custom-react-scripts": "0.2.1",
-    "react": "^16.1.1",
+    "react": "^16.2.0",
     "react-dom": "^16.1.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.2",
-    "eslint": "^4.12.0",
+    "eslint": "^4.12.1",
     "eslint-plugin-react": "^7.5.1"
   },
   "scripts": {
