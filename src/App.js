@@ -1,6 +1,6 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
-import Hello from "./components/Hello/Hello.jsx";
+import Hello from './components/Hello/Hello.jsx';
 //modules
 
 class App extends Component {
