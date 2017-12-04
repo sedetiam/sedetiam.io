@@ -1,6 +1,7 @@
 .container {
   width: 100%;
   min-width: 300px;
+  background-color: lightgoldenrodyellow;
 }
 
 .hello {
@@ -15,7 +16,7 @@
 .presentation {
   margin: 10rem 1rem 0rem 1rem;
   text-align: right;
-  font-size: 4vw;
+  font-size: 2vw;
 }
 
 @media screen and (max-width: 600px) {
