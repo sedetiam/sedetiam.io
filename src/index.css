@@ -1,4 +1,21 @@
+html {
+  /*margin: 2vh 2vw 2vh 2vw;*/
+  margin: auto;
+  padding: 0;
+  /* font */
+  font-family: "Open Sans", sans-serif;
+  width: 100vw;
+  background-color: green;
+}
+
 body {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+p {
+  margin: 0rem 0rem;
+  text-align: right;
+  font-size: 4vw;
 }

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Hello from './components/Hello/Hello.jsx';
+import Portfolio from './components/Portfolio/Portfolio.jsx';
 //modules
 
 class App extends Component {
@@ -8,6 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Hello />
+        <Portfolio />
       </div>
     );
   }

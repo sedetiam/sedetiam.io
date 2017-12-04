@@ -1,5 +1,27 @@
 .App {
-  padding: 0px;
-  margin: 0px;
-  background-color: lightblue;
+  /*background-color: rgba(210, 210, 210, 0.5);*/
+  background-color: red;
+  padding: 0;
 }
+/*
+  align-content: stretch;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 62.5%;
+
+}
+
+.container {
+  background-color: lightcoral;
+  margin: 10rem;
+}
+/*
+@media (min-width: 1500px) and (orientation: landscape) {
+  .App {
+    flex-direction: row;
+  }
+}
+*/
