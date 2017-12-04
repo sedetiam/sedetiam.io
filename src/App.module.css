@@ -9,16 +9,8 @@
   align-content: stretch;
 }
 
-@media only screen and (max-width: 720px) {
+@media screen and (max-width: 720px) and (orientation: portrait) {
   .App {
     flex-direction: column;
   }
 }
-
-/*
-@media (min-width: 1500px) and (orientation: landscape) {
-  .App {
-    flex-direction: row;
-  }
-}
-*/
