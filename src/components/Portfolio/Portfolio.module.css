@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  min-width: 300px;
+  background-color: blueviolet;
+}
+
+.presentation {
+  margin: 1rem 1rem 0rem 1rem;
+  text-align: center;
+  font-size: 4vw;
+}

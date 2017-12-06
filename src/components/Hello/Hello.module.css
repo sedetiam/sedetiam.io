@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  min-width: 300px;
+  background-color: lightgoldenrodyellow;
+}
+
+.hello {
+  padding: 5vh 0vw;
+  background-color: aqua;
+  font-family: "Montserrat", sans-serif;
+  font-size: 10vw;
+  text-align: center;
+  position: relative;
+}
+
+.presentation {
+  margin: 10rem 1rem 0rem 1rem;
+  text-align: right;
+  font-size: 2vw;
+}
+
+@media screen and (max-width: 600px) {
+  .hello {
+    font-size: 60px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .hello {
+    font-size: 120px;
+  }
+}

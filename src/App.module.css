@@ -1,0 +1,16 @@
+.App {
+  /*background-color: rgba(210, 210, 210, 0.5);*/
+  background-color: red;
+  padding: 0;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: stretch;
+}
+
+@media screen and (max-width: 720px) and (orientation: portrait) {
+  .App {
+    flex-direction: column;
+  }
+}
